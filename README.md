@@ -1,2 +1,2 @@
 # ARcuckoo project
-Augmented reality app ny using Aframe.
+Augmented reality app by using Aframe.
