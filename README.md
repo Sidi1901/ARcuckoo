@@ -9,6 +9,8 @@ This application is built for displaying the products of company by the users to
 
 -three js: a javascript 3D library.
 
+-AR.js: lightweight library for enabling marker based AR
+
 -HTML: A markup language
 
 
