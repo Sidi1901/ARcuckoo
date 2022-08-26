@@ -5,8 +5,9 @@ This application is built for displaying the products of company by the users to
 
 
 ### Technology
-Aframe: A web framework for building 3D/AR/VR experiences
-HTML: A markup language
+-Aframe: A web framework for building 3D/AR/VR experiences
+-three js: a javascript 3D library
+-HTML: A markup language
 
 
 Check out the website link below
